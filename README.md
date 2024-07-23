@@ -10,6 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/alire7a_ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alire7a_ir" height="30" width="40" /></a>
 <a href="https://instagram.com/alire7a.ghamari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alire7a.ghamari" height="30" width="40" /></a>
+<a href="https://web.telegram.org/a/#771975505" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="alire7a.ghamari" height="30" width="40" /></a>
+
 <br></br>
 
 <h3 align="left">Languages and Tools:</h3>
