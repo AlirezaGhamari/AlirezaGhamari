@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alireza Ghamari</h1>
-<h3 align="center">Front-End Developer</h3>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=096586&height=120&section=header"/>
+</a>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Alireza+Ghamari...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=096586&background=FFFFFF00">
+  </a>
+</h1>
+<h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/alire7a_ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alire7a_ir" height="30" width="40" /></a>
 <a href="https://instagram.com/alire7a.ghamari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alire7a.ghamari" height="30" width="40" /></a>
 
