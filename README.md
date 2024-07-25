@@ -11,7 +11,7 @@
 <a href="https://twitter.com/alire7a_ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alire7a_ir" height="30" width="40" /></a>
 <a href="https://instagram.com/alire7a.ghamari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alire7a.ghamari" height="30" width="40" /></a>
 <a href="https://web.telegram.org/a/#771975505" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="telegram id :alire7a_ir" height="30" width="40" /></a>
-<a href="https://alire7a.ir@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="mailto:alire7a.ir@gmail.com" height="30" width="40" /></a>
+<a href="https://mailto:alire7a.ir@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="alire7a.ir@gmail.com" height="30" width="40" /></a>
 
 <br></br>
 
